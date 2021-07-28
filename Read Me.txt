@@ -1,0 +1,12 @@
+
+The requirements for running the project are :
+-Python
+-Pandas
+-NumPy
+-openpyxl
+
+Run the project in python.A new window will popup where we can choose the file path of the Excel sheet given in mentioned format. When the convert button is clicked, pdfs' will be generated for all the students where the name of the students will be the document of the corresponding student.
+ 
+
+The Program is done by Immanual Jose.
+immanual1997@gmail.com
